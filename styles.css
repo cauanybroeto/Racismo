@@ -26,13 +26,13 @@ a:hover {
 body {
   font-family: Arial, sans-serif;     /* Define a família de fontes principal */
   line-height: 1.6;                   /* Aumenta o espaçamento entre linhas para facilitar a leitura */
-  color: #222222;                     /* Cor padrão do texto (cinza bem escuro) */
+  color: #ab6969;                     /* Cor padrão do texto (cinza bem escuro) */
 }
 
 /* =============== HEADER =============== */
 .topo {
-  background: #1f2937;                /* Cor de fundo do topo (azul-acinzentado escuro) */
-  color: #ffffff;                     /* Texto do topo em branco */
+  background: #f9acf7;                /* Cor de fundo do topo (azul-acinzentado escuro) */
+  color: #efa5a5;                     /* Texto do topo em branco */
   padding: 16px;                      /* Respiro interno para não “grudar” nas bordas */
   text-align: center;                 /* Centraliza tudo dentro do header (título e menu) */
 }
@@ -49,7 +49,7 @@ body {
 
 .menu a {
   display: inline-block;              /* Permite centralizar e ajustar espaçamento dos links */
-  color: #ffffff;                     /* Links do menu em branco */
+  color: #a8e9e0;                     /* Links do menu em branco */
   margin: 0 12px;                     /* Espaço lateral igual entre os links */
   padding: 6px 8px;                   /* Área clicável um pouco maior */
   border-radius: 6px;                 /* Cantos levemente arredondados no hover */
@@ -60,7 +60,7 @@ body {
 }
 
 .menu a:hover {
-  background: rgba(255, 255, 255, 0.12); /* Destaque suave ao passar o mouse */
+  background: rgba(176, 160, 239, 0.12); /* Destaque suave ao passar o mouse */
   text-decoration: none;              /* Remove sublinhado no hover (já temos o fundo) */
 }
 
@@ -73,9 +73,9 @@ body {
 }
 
 .caixa {
-  background: #f8fafc;                /* Fundo claro para destacar o bloco do fundo da página */
+  background: #e07ec8;                /* Fundo claro para destacar o bloco do fundo da página */
   padding: 16px;                      /* Respiro interno do bloco */
-  border: 1px solid #e5e7eb;          /* Borda sutil para delimitar o bloco */
+  border: 1px solid #6edfec;          /* Borda sutil para delimitar o bloco */
   border-radius: 8px;                 /* Cantos arredondados suaves */
   margin-bottom: 16px;                /* Espaço externo abaixo para separar blocos */
 }
